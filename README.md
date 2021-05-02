@@ -1,33 +1,44 @@
 ## Welcome to my github. 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Node.js
-- 📫 How to reach me: ...
+
+### If you would like to talk with me, find me on:
+<div>
+  <a href="https://www.linkedin.com/in/jakub-radzik-726682174/">
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/linkedin.png" alt="linkedin" width="50"/>
+  </a>
+  <a href="#">
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/telegram.png" alt="telegram" width="50"/>
+  </a>
+</div>
 
 ### Technologies:
 <div>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="50" margin="20px"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="50" margin="20px"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="50" margin="20px"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="50" margin="20px"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="50" margin="20px"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="50"/>
 </div>
 
+### Libraries:
+<div>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="50"/>
+</div>
 
-
-
-
-
-
-
-
-
+### Tools:
+<div>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/webstorm.png" alt="redux" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/intellij.png" alt="redux" width="50"/>
+</div>
 
 ### Learning:
+<div>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" width="50"/>
+</div>
 
 ### Basic knowledge:
-
+<div>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/php.png" alt="PHP" width="50"/>
+</div>
 
 
 <!--
