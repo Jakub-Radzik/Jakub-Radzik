@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/jakub-radzik-726682174/">
     <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/linkedin.png" alt="linkedin" width="50"/>
   </a>
-  <a href="#">
+  <a href="https://t.me/KubusRadzik">
     <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/telegram.png" alt="telegram" width="50"/>
   </a>
 </div>
