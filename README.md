@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: ...
 
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" style="width:10px;"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" width="20"/>
 
 <!--
 **radzikoska123/radzikoska123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
