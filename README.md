@@ -1,15 +1,27 @@
 ## Welcome to my github. 👋
 
-### If you would like to talk with me, find me on:
-<div>
-  <a href="https://www.linkedin.com/in/jakub-radzik-726682174/">
-    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/linkedin.png" alt="linkedin" width="50"/>
-  </a>
-  <a href="https://t.me/KubusRadzik">
-    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/telegram.png" alt="telegram" width="50"/>
-  </a>
-</div>
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="600"/>
+
+### Find me on:
+<div>
+  
+  <a href="https://www.linkedin.com/in/jakub-radzik-726682174/">
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/linkedin.svg" alt="linkedin" width="50"/>
+  </a>
+  
+  <a href="https://t.me/KubusRadzik">
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/telegram.svg" alt="telegram" width="50"/>
+  </a>  
+  
+  <a href="https://open.spotify.com/user/jradzik4?si=ba57331227964218">
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spotify.svg" alt="spotify" width="50"/>
+  </a>
+  
+  <a href="https://discordapp.com/users/626702618298941449">
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/discord.svg" alt="discord" width="50"/>
+  </a>
+  
+</div>
 <div>
  
 ### Technologies and libraries:
