@@ -4,15 +4,22 @@
 - 📫 How to reach me: ...
 
 ### Technologies:
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="50"/>
+<div>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="50" margin="20px"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="50" margin="20px"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="50" margin="20px"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="50" margin="20px"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="50" margin="20px"/>
+</div>
 
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="50"/>
 
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="50"/>
 
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="50"/>
 
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="50"/>
+
+
+
+
+
 
 
 ### Learning:
