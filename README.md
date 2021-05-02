@@ -26,8 +26,11 @@
 
 ### Tools:
 <div>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/webstorm.png" alt="redux" width="50"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/intellij.png" alt="redux" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/webstorm.png" alt="webstorm" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/intellij.png" alt="intellij" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/terminal.png" alt="terminal" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/npm.png" alt="npm" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/git.png" alt="git" width="50"/>
 </div>
 
 ### Learning:
