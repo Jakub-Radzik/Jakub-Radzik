@@ -6,19 +6,19 @@
 <div>
   
   <a href="https://www.linkedin.com/in/jakub-radzik-726682174/">
-    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/linkedin.svg" alt="linkedin" width="50"/>
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/linkedin.svg" alt="linkedin" width="30"/>
   </a>
   
   <a href="https://t.me/KubusRadzik">
-    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/telegram.svg" alt="telegram" width="50"/>
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/telegram.svg" alt="telegram" width="30"/>
   </a>  
   
   <a href="https://open.spotify.com/user/jradzik4?si=ba57331227964218">
-    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spotify.svg" alt="spotify" width="50"/>
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spotify.svg" alt="spotify" width="30"/>
   </a>
   
   <a href="https://discordapp.com/users/626702618298941449">
-    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/discord.svg" alt="discord" width="50"/>
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/discord.svg" alt="discord" width="30"/>
   </a>
   
 </div>
