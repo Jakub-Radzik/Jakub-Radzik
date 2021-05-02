@@ -3,8 +3,13 @@
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me: ...
 
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" width="100"/>
+Technologies:
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="100"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="100"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="100"/>
 
+Learning:
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" width="100"/>
 <!--
 **radzikoska123/radzikoska123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
