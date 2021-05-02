@@ -41,6 +41,8 @@
 ### Basic knowledge:
 <div>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/php.png" alt="PHP" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/python.png" alt="python" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/mysql.png" alt="mysql" width="50"/>
 </div>
 
 
