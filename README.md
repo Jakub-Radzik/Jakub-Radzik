@@ -9,16 +9,18 @@
     <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/telegram.png" alt="telegram" width="50"/>
   </a>
 </div>
-
-### Technologies and libraries:
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="600"/>
 <div>
+ 
+### Technologies and libraries:
+<div align="left">
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="50"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="50"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="50"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="50"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/sass.svg" alt="sass" width="50"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="50"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="50"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/djs.png" alt="djs" width="50"/>
 </div>
 
 ### Tools:
@@ -41,6 +43,9 @@
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/python.png" alt="python" width="50"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/mysql.png" alt="mysql" width="50"/>
 </div>
+
+</div>
+
 
 
 <!--
