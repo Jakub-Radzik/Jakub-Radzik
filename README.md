@@ -47,6 +47,7 @@
 ### Learning:
 <div>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/express.png" alt="express.js" width="30"/>
 </div>
 
 ### Basic knowledge:
