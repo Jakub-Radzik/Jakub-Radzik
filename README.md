@@ -53,6 +53,7 @@
 <div>
 <!-- <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" width="30"/> -->
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spring-logo.png" alt="spring" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/junit5.png" alt="junit5" width="30"/>
  
 </div>
 
