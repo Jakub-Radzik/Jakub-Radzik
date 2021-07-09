@@ -12,7 +12,8 @@
 
 <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/pepe2.gif" alt="gif" width="550"/>
 <!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/programming.gif" alt="gif" width="550"/> -->
-<div></br>
+<div>
+
 Company: <b>Codelab Sp. z o.o.</b></br>
 Position: <b>Full-stack Trainee</b>
 
