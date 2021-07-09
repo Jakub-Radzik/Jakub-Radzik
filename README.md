@@ -1,6 +1,17 @@
 ## Welcome to my github. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radzikoska123&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" height="200" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=radzikoska123&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" height="200" /></td>
+  </tr>
+</table>
+
 <a href="https://jakub-radzik.ovh"><h1>Visit my personal website</h1></a>
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="550"/>
+<!-- <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="550"/> -->
+
+<img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/pepe2.gif" alt="gif" width="550"/>
+<!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/programming.gif" alt="gif" width="550"/> -->
 <div></br>
 Company: <b>Codelab Sp. z o.o.</b></br>
 Position: <b>Full-stack Trainee</b>
