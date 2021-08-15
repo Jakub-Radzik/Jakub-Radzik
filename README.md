@@ -10,8 +10,8 @@
 <a href="https://jakub-radzik.ovh"><h1>🌐Visit my personal website🌐</h1></a>
 <!-- <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="550"/> -->
 
-<img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/pepe1.gif" alt="gif" width="550"/>
-<!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/programming.gif" alt="gif" width="550"/> -->
+<!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/pepe1.gif" alt="gif" width="550"/> -->
+<img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/programming.gif" alt="gif" width="550"/>
 <div>
 
 Company: <b>Codelab Sp. z o.o.</b></br>
