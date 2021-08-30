@@ -46,6 +46,10 @@ Position: <b>Full-stack Trainee</b>
     <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/discord.svg" alt="discord" width="30"/>
   </a>
   
+  <a href="https://www.codewars.com/users/radzikoska123">
+    <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/codewars.svg" alt="codewars" width="30"/>
+  </a>
+  
 </div>
 
 <div>
