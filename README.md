@@ -6,7 +6,11 @@
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=radzikoska123&show_icons=true&theme=radical" height="200" /></td>
   </tr>
   <tr>
-  <td colspan="2" align="center"><img align="center" src="https://www.codewars.com/users/radzikoska123/badges/large" alt="gif" width="550"/></td>
+  <td colspan="2" align="center">
+    <a href="https://www.codewars.com/users/radzikoska123">
+    <img align="center" src="https://www.codewars.com/users/radzikoska123/badges/large" alt="gif" width="550"/>
+    </a>
+    </td>
   </tr>
 </table>
 <!-- https://www.codewars.com/users/radzikoska123/badges/large -->
