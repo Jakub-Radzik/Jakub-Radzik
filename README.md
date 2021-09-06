@@ -5,8 +5,11 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radzikoska123&layout=compact&show_icons=true&icon_color=34abeb&theme=radical" height="200" /></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=radzikoska123&show_icons=true&theme=radical" height="200" /></td>
   </tr>
+  <tr>
+  <td colspan="2" align="center"><img align="center" src="https://www.codewars.com/users/radzikoska123/badges/large" alt="gif" width="550"/></td>
+  </tr>
 </table>
-
+<!-- https://www.codewars.com/users/radzikoska123/badges/large -->
 <a href="https://jakub-radzik.ovh"><h1>🌐Visit my personal website🌐</h1></a>
 <!-- <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="550"/> -->
 
@@ -14,6 +17,7 @@
 <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/programming.gif" alt="gif" width="550"/>
 <div>
 
+  
 Company: <b>Codelab Sp. z o.o.</b></br>
 Position: <b>Full-stack Trainee</b>
 
