@@ -95,6 +95,7 @@ Position: <b>Full-stack Trainee</b>
 ## “Don't tell people your plans. Show them your results.”
 ### Hosted creations
 #### <a href="https://radzikoska123.github.io/weatherApp/">Weather app</a>
+#### <a href="https://radzikoska123.github.io/devfinder/">Devfinder - IN PROGRESS</a>
 #### <a href="https://jakub-radzik.ovh/">My personal website</a>
 #### <a href="https://radzikoska123.github.io/challenge5host/">Calculator</a>
 #### <a href="https://radzikoska123.github.io/ip-tracker/">IP Tracker</a>
