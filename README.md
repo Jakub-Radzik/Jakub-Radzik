@@ -94,18 +94,18 @@ Position: <b>Full-stack Trainee</b>
 
 ## “Don't tell people your plans. Show them your results.”
 ### Hosted creations
-#### <a href="https://radzikoska123.github.io/weatherApp/">Weather app</a>
-#### <a href="https://radzikoska123.github.io/devfinder/">Devfinder - IN PROGRESS</a>
-#### <a href="https://jakub-radzik.ovh/">My personal website</a>
-#### <a href="https://radzikoska123.github.io/challenge5host/">Calculator</a>
-#### <a href="https://radzikoska123.github.io/ip-tracker/">IP Tracker</a>
-#### <a href="https://bruk-systempol.pl/">Company Site</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://radzikoska123.github.io/weatherApp/">Weather app</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://radzikoska123.github.io/devfinder/">Devfinder - IN PROGRESS</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://github.com/radzikoska123/Challenges">REST Countries API with color theme switcher</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://jakub-radzik.ovh/">My personal website</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/> <a href="https://radzikoska123.github.io/challenge5host/">Calculator</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/> <a href="https://radzikoska123.github.io/ip-tracker/">IP Tracker</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/sass.svg" alt="sass" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="30"/> <a href="https://bruk-systempol.pl/">Company Site</a>
 
 ### Others
 #### <a href="https://github.com/radzikoska123/Challenges">Blogr landing page</a>
 #### <a href="https://github.com/radzikoska123/Challenges">3-column preview card component</a>
 #### <a href="https://github.com/radzikoska123/Challenges">Chat app CSS illustration</a>
-#### <a href="https://github.com/radzikoska123/Challenges">REST Countries API with color theme switcher</a>
 #### <a href="https://github.com/radzikoska123/Operating-Systems-Laboratory">Operating Systems Simulations</a>
 #### <a href="https://github.com/radzikoska123/Algorithms-and-data-structures">Algorithms and Data Structures</a>
 #### <a href="https://github.com/radzikoska123/DiscordBot">Discord Bot</a>
