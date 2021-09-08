@@ -96,7 +96,7 @@ Position: <b>Full-stack Trainee</b>
 ### Hosted creations
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://radzikoska123.github.io/weatherApp/">Weather app</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://radzikoska123.github.io/devfinder/">Devfinder - IN PROGRESS</a>
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://github.com/radzikoska123/Challenges">REST Countries API with color theme switcher</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://radzikoska123.github.io/countries/">REST Countries API with color theme switcher</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://jakub-radzik.ovh/">My personal website</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/> <a href="https://radzikoska123.github.io/challenge5host/">Calculator</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/> <a href="https://radzikoska123.github.io/ip-tracker/">IP Tracker</a>
