@@ -103,12 +103,12 @@ Position: <b>Full-stack Trainee</b>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/sass.svg" alt="sass" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="30"/> <a href="https://bruk-systempol.pl/">Company Site</a>
 
 ### Others
-#### <a href="https://github.com/radzikoska123/Challenges">Blogr landing page</a>
-#### <a href="https://github.com/radzikoska123/Challenges">3-column preview card component</a>
-#### <a href="https://github.com/radzikoska123/Challenges">Chat app CSS illustration</a>
-#### <a href="https://github.com/radzikoska123/Operating-Systems-Laboratory">Operating Systems Simulations</a>
-#### <a href="https://github.com/radzikoska123/Algorithms-and-data-structures">Algorithms and Data Structures</a>
-#### <a href="https://github.com/radzikoska123/DiscordBot">Discord Bot</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="30"/> <a href="https://github.com/radzikoska123/Challenges">Blogr landing page</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="30"/><a href="https://github.com/radzikoska123/Challenges">3-column preview card component</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="30"/> <a href="https://github.com/radzikoska123/Challenges">Chat app CSS illustration</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/php.png" alt="PHP" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="30"/>  <a href="https://github.com/radzikoska123/Operating-Systems-Laboratory">Operating Systems Simulations</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/> <a href="https://github.com/radzikoska123/Algorithms-and-data-structures">Algorithms and Data Structures</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" width="30"/> <a href="https://github.com/radzikoska123/DiscordBot">Discord Bot</a>
 
 
   
