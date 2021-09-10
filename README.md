@@ -94,7 +94,7 @@ Position: <b>Full-stack Trainee</b>
 
 ## “Don't tell people your plans. Show them your results.”
 ### Hosted creations
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://radzikoska123.github.io/weatherApp/">Weather app</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://radzikoska123.github.io/weatherApp/">Weather app</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://radzikoska123.github.io/devfinder/">Devfinder - IN PROGRESS</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://radzikoska123.github.io/countries/">REST Countries API</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://jakub-radzik.ovh/">My personal website</a>
