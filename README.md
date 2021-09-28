@@ -93,9 +93,21 @@ Position: <b>Full-stack Trainee</b>
 </div>
 
 ## “Don't tell people your plans. Show them your results.”
+
+### WORKING ON:
+
+  
+  
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://radzikoska123.github.io/devfinder/">Devfinder - IN PROGRESS</a>
+  
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spring-logo.png" alt="spring" width="30"/> <a href="https://github.com/Future-Developers-Lab/Skill-Up">Skill Up</a> - Team Project
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Future-Developers-Lab&repo=Skill-Up&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+  
 ### Hosted creations
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://radzikoska123.github.io/weatherApp/">Weather app</a>
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://radzikoska123.github.io/devfinder/">Devfinder - IN PROGRESS</a>
+
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://radzikoska123.github.io/countries/">REST Countries API</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://jakub-radzik.ovh/">My personal website</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/rxjs.png" alt="rxjs" width="30"/> <a href="https://radzikoska123.github.io/challenge5host/">Calculator</a>
