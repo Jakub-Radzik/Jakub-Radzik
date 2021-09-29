@@ -21,20 +21,6 @@
 <!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/programming.gif" alt="gif" width="550"/> -->
 <div>
 
-  
-Company: <b>Codelab Sp. z o.o.</b></br>
-Position: <b>Full-stack Trainee</b>
-
-### Stack I work with:
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/typescript.png" alt="TS" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spring-logo.png" alt="spring" width="30"/>
-</div>
-
-
 ### Find me on:
 <div>
   
@@ -61,15 +47,21 @@ Position: <b>Full-stack Trainee</b>
 </div>
 
 <div>
+  
  
 ### I had contact with (and I think it was beautiful) :
   
 <div align="left">
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/sass.svg" alt="sass" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/typescript.png" alt="TS" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/mysql.png" alt="mysql" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spring-logo.png" alt="spring" width="30"/>
 </div>
   
   
