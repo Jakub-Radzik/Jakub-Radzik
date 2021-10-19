@@ -113,7 +113,8 @@
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/php.png" alt="PHP" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="30"/>  <a href="https://github.com/radzikoska123/Operating-Systems-Laboratory">Operating Systems Simulations</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/> <a href="https://github.com/radzikoska123/Algorithms-and-data-structures">Algorithms and Data Structures</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" width="30"/> <a href="https://github.com/radzikoska123/DiscordBot">Discord Bot</a>
-
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/c++.png" alt="c++" width="30"/> <a href="https://github.com/radzikoska123">Effective Programming</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/scala.png" alt="scala" width="30"/> <a href="https://github.com/radzikoska123">Programming Paradigms</a>
 
   
 <!-- ### Learning: -->
