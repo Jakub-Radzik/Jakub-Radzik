@@ -47,7 +47,8 @@
 </div>
 
 <div>
-  
+ 
+### If you are from HR, all below are just pokemons I caught !
  
 ### I had contact with (and I think it was beautiful) :
   
@@ -60,12 +61,23 @@
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/>
+</div>
+  
+### I learn and hope for more than an afair:
+<div>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/graphql.png" alt="graphql" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="node" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/nest.svg" alt="nest" width="30"/>
+</div>
+  
+### I worked with but the love is gone :
+  
+<div>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spring-logo.png" alt="spring" width="30"/>
 </div>
   
-  
-### I had contact with (and I don't think) :
+### I had contact with and please don't start again :
 <div>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/php.png" alt="PHP" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/python.png" alt="python" width="30"/>
@@ -77,20 +89,16 @@
 
 ### Tools:
 <div>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/vscode.png" alt="vscode" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/webstorm.png" alt="webstorm" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/intellij.png" alt="intellij" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/terminal.png" alt="terminal" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/npm-1.png" alt="npm" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/git.png" alt="git" width="30"/>
 </div>
 
 ## “Don't tell people your plans. Show them your results.”
 
-### WORKING ON:
+<!-- ### WORKING ON: -->
 
-  
-  
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://radzikoska123.github.io/devfinder/">Devfinder - IN PROGRESS</a>
   
 <!-- #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spring-logo.png" alt="spring" width="30"/> <a href="https://github.com/Future-Developers-Lab/Skill-Up">Skill Up</a> - Team Project
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Future-Developers-Lab&repo=Skill-Up&theme=radical)](https://github.com/Future-Developers-Lab/Skill-Up) -->
@@ -100,6 +108,8 @@
 ### Hosted creations
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://radzikoska123.github.io/weatherApp/">Weather app</a>
 
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://radzikoska123.github.io/devfinder/">Devfinder</a>
+  
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://radzikoska123.github.io/countries/">REST Countries API</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://jakub-radzik.ovh/">My personal website</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/rxjs.png" alt="rxjs" width="30"/> <a href="https://radzikoska123.github.io/Rekrutacja/">Spaceflight News</a>
