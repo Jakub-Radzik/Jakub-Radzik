@@ -53,7 +53,7 @@ Position: <b>Junior Fullstack Developer</b>
  
 ### If you are from HR, all below are just pokemons I caught !
  
-### I had contact with (and I think it was beautiful) :
+### I had contact with (I think it was beautiful) :
   
 <div align="left">
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="30"/>
