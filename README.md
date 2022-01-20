@@ -20,6 +20,9 @@
 <!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/pepe1.gif" alt="gif" width="550"/> -->
 <!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/programming.gif" alt="gif" width="550"/> -->
 <div>
+  
+Company: <b>Vazco</b></br>
+Position: <b>Junior Fullstack Developer</b>
 
 ### Find me on:
 <div>
