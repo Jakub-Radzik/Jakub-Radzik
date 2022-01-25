@@ -1,5 +1,5 @@
 ## Welcome to my github. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<table>
+<!-- <table>
   <tr>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radzikoska123&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=radical" height="200" /></td>
@@ -12,7 +12,7 @@
     </a>
     </td>
   </tr>
-</table>
+</table> -->
 <!-- https://www.codewars.com/users/radzikoska123/badges/large -->
 <a href="https://jakub-radzik.ovh"><h1>🌐Visit my personal website🌐</h1></a>
 <img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="550"/>
