@@ -52,39 +52,49 @@ Position: <b>Junior Fullstack Developer</b>
 <div>
  
 ### If you are from HR, all below are just pokemons I caught !
+  
+
  
-### I had contact with (I think it was beautiful) :
+### Stack I currently work with:
   
 <div align="left">
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/sass.svg" alt="sass" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/typescript.png" alt="TS" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/graphql.png" alt="graphql" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/meteor.png" alt="meteor" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/firebase.png" alt="firebase" width="20"/>
+</div>
+    
+ 
+### I had contact with (I think it was beautiful) :
+  
+<div align="left">
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/sass.svg" alt="sass" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="node" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/nest.svg" alt="nest" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/>
 </div>
   
-### I learn and hope for more than an afair:
+<!-- ### I learn and hope for more than an afair:
 <div>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/graphql.png" alt="graphql" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="node" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/nest.svg" alt="nest" width="30"/>
-</div>
+</div> -->
   
-### I worked with but the love is gone :
+<!-- ### I worked with but the love is gone :
   
 <div>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spring-logo.png" alt="spring" width="30"/>
-</div>
+</div> -->
   
-### I had contact with and please don't start again :
+<!-- ### I had contact with and please don't start again :
 <div>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/php.png" alt="PHP" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/python.png" alt="python" width="30"/>
-</div>
+</div> -->
   
 <!-- ### Back-end stack: -->
 <!-- <div align="left"> -->
