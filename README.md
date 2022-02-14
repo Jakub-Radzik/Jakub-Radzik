@@ -64,6 +64,7 @@ Position: <b>Junior Fullstack Developer</b>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/graphql.png" alt="graphql" width="30"/>
+<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/mongodb.png" alt="mongo" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/meteor.png" alt="meteor" width="30"/>
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/firebase.png" alt="firebase" width="20"/>
 </div>
