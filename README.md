@@ -15,7 +15,7 @@
 </table>
 <!-- https://www.codewars.com/users/radzikoska123/badges/large -->
 <a href="https://jakub-radzik.ovh"><h1>🌐Visit my personal website🌐</h1></a>
-<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="code" width="550"/>
+<img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="code" width="550"/>
 
 <!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/pepe1.gif" alt="gif" width="550"/> -->
 <!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/programming.gif" alt="gif" width="550"/> -->
