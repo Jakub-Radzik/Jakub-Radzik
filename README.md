@@ -140,6 +140,9 @@ Position: <b>Junior Fullstack Developer</b>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="NODE" width="30"/> <a href="https://github.com/radzikoska123/DiscordBot">Discord Bot</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/c++.png" alt="c++" width="30"/> <a href="https://github.com/radzikoska123/effective-programming-techniques">Effective Programming</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/scala.png" alt="scala" width="30"/> <a href="https://github.com/radzikoska123/programming-paradigms">Programming Paradigms</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/python.png" alt="scala" width="30"/> <a href="https://github.com/Jakub-Radzik/system-decisions-methods">System Decisions Methods</a>
+#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/python.png" alt="scala" width="30"/> <a href="https://github.com/Jakub-Radzik/ScritpingLanguages">Scripting Languages</a>
+
 
   
 <!-- ### Learning: -->
