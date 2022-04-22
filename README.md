@@ -52,32 +52,46 @@ Position: <b>Junior Fullstack Developer</b>
 <div>
  
 ### If you are from HR, all below are just pokemons I caught !
-  
-
  
 ### Stack I currently work with:
   
 <div align="left">
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/html.png" alt="HTML" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/css-3.png" alt="CSS" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/typescript.png" alt="TS" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/graphql.png" alt="graphql" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/mongodb.png" alt="mongo" width="30"/>
+  
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![REACT-NATIVE](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&logoColor=61DAFB&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![SC](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white&logoColor=white&logoColor=61DAFB&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) 
+[![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) 
+[![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) 
+
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/meteor.png" alt="meteor" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/firebase.png" alt="firebase" width="20"/>
 </div>
-    
+
+ 
+### OS and Workspace specs :
+  
+<div align="left">
+  
+  [![APPLE](https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white&logoColor=white&logoColor=white&logoColor=61DAFB&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)  
+  [![APPLE](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+  
+  
+</div>
+ 
  
 ### I had contact with (I think it was beautiful) :
   
 <div align="left">
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/sass.svg" alt="sass" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/node.png" alt="node" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/nest.svg" alt="nest" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/>
+  
+[![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![NODE](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![NEST](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
 </div>
   
 <!-- ### I learn and hope for more than an afair:
@@ -103,10 +117,12 @@ Position: <b>Junior Fullstack Developer</b>
 
 ### Tools:
 <div>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/vscode.png" alt="vscode" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/webstorm.png" alt="webstorm" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/npm-1.png" alt="npm" width="30"/>
-<img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/git.png" alt="git" width="30"/>
+
+  [![VSC](	https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+  [![WEBSTORM](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+  [![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+  [![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+  [![GITKRAKEN](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
 </div>
 
 ## “Don't tell people your plans. Show them your results.”
@@ -120,18 +136,20 @@ Position: <b>Junior Fullstack Developer</b>
   
   
 ### Hosted creations
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://jakub-radzik.github.io/weatherApp/">Weather app</a>
+#### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/weatherApp/">Weather app</a>
 
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://jakub-radzik.github.io/devfinder/">Devfinder</a>
+#### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&logoColor=61DAFB&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/devfinder/">Devfinder</a>
   
 <!-- #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <a href="https://jakub-radzik.github.io/countries/">REST Countries API</a> -->
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <a href="https://jakub-radzik.ovh/">My personal website</a>
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/rxjs.png" alt="rxjs" width="30"/> <a href="https://jakub-radzik.github.io/Rekrutacja/">Spaceflight News</a>
+#### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.ovh/">My personal website</a>
+#### [![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/rxjs.png" alt="rxjs" width="30"/> <a href="https://jakub-radzik.github.io/Rekrutacja/">Spaceflight News</a>
 <!-- #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/rxjs.png" alt="rxjs" width="30"/> <a href="https://jakub-radzik.github.io/challenge5host/">Calculator</a>
 #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/angular.svg" alt="angular" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/rxjs.png" alt="rxjs" width="30"/> <a href="https://jakub-radzik.github.io/ip-tracker/">IP Tracker</a> -->
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/sass.svg" alt="sass" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/js.png" alt="JS" width="30"/> <a href="https://bruk-systempol.pl/">Company Site</a>
+#### 
+  [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://bruk-systempol.pl/">Company Site</a>
   
-#### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="JS" width="30"/> <a href="https://jakub-radzik.github.io/apple-page-experience/">Apple Page Experience</a>
+#### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/apple-page-experience/">Apple Page Experience</a>
 
 
   
