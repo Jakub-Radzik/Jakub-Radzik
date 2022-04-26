@@ -152,7 +152,11 @@ Position: <b>Junior Fullstack Developer</b>
   
 #### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/apple-page-experience/">Apple Page Experience</a>
 
-## For Wrocław University of Science and Technology Students - Applied Computer Science   
+## For Wrocław University of Science and Technology Students - Applied Computer Science  
+### 1-st term:
+#### [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/Jakub-Radzik/PSiO">Structural and Obiect Oriented Programming</a>
+#### [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/Jakub-Radzik/Uczelnia">OOP Project - "University"</a>
+  
 ###  2-nd term:
 #### [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)  <a href="https://github.com/radzikoska123/Operating-Systems-Laboratory">Operating Systems Simulations</a>
 #### [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/Algorithms-and-data-structures">Algorithms and Data Structures</a>
