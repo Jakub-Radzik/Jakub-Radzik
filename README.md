@@ -125,7 +125,7 @@ Position: <b>Junior Fullstack Developer</b>
   [![GITKRAKEN](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
 </div>
 
-## “Don't tell people your plans. Show them your results.”
+# “Don't tell people your plans. Show them your results.”
 
 <!-- ### WORKING ON: -->
 
@@ -133,10 +133,10 @@ Position: <b>Junior Fullstack Developer</b>
 <!-- #### <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/react.png" alt="react" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/redux.png" alt="redux" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/java.png" alt="java" width="30"/> <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/spring-logo.png" alt="spring" width="30"/> <a href="https://github.com/Future-Developers-Lab/Skill-Up">Skill Up</a> - Team Project
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Future-Developers-Lab&repo=Skill-Up&theme=radical)](https://github.com/Future-Developers-Lab/Skill-Up) -->
 
-### New creations (not public for now)
+## New creations (not public for now)
 #### [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)  <a href="https://github.com/Jakub-Radzik/Jakub-Radzik/">Something new</a>
   
-### Hosted creations
+## Hosted creations
 #### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/weatherApp/">Weather app</a>
 
 #### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&logoColor=61DAFB&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/devfinder/">Devfinder</a>
@@ -152,19 +152,25 @@ Position: <b>Junior Fullstack Developer</b>
   
 #### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/apple-page-experience/">Apple Page Experience</a>
 
+## For Wrocław University of Science and Technology Students - Applied Computer Science   
+###  2-nd term:
+#### [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)  <a href="https://github.com/radzikoska123/Operating-Systems-Laboratory">Operating Systems Simulations</a>
+#### [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/Algorithms-and-data-structures">Algorithms and Data Structures</a>
+###  3-rd term:
+#### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/networks-test/">Computer networks - test answers
+#### [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/effective-programming-techniques">Effective Programming</a>
+#### [![SCALA](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/programming-paradigms">Programming Paradigms</a>
 
+###  4-th term:
+#### [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/Jakub-Radzik/system-decisions-methods">System Decisions Methods</a>
+#### [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/Jakub-Radzik/ScritpingLanguages">Scripting Languages</a>
   
-### Others
+## Others
 #### [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/Challenges">Blogr landing page</a>
 #### [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/Challenges">3-column preview card component</a>
 #### [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/Challenges">Chat app CSS illustration</a>
-#### [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)  <a href="https://github.com/radzikoska123/Operating-Systems-Laboratory">Operating Systems Simulations</a>
-#### [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/Algorithms-and-data-structures">Algorithms and Data Structures</a>
 #### [![NODE](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/DiscordBot">Discord Bot</a>
-#### [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/effective-programming-techniques">Effective Programming</a>
-#### [![SCALA](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/programming-paradigms">Programming Paradigms</a>
-#### [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/Jakub-Radzik/system-decisions-methods">System Decisions Methods</a>
-#### [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/Jakub-Radzik/ScritpingLanguages">Scripting Languages</a>
+
 
 
 
