@@ -2,8 +2,8 @@
 <table>
   <tr>
     <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Radzik&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=radical" height="200" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Jakub-Radzik&show_icons=true&theme=radical" height="200" /></td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Radzik&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=highcontrast" height="200" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Jakub-Radzik&show_icons=true&theme=highcontrast" height="200" /></td>
   </tr>
   <tr>
   <td colspan="2" align="center">
@@ -138,6 +138,14 @@ Position: <b>Junior Fullstack Developer</b>
 #### [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![FLASK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)  <a href="https://github.com/Jakub-Radzik/Jakub-Radzik/">Something new</a>
   
 ## Hosted creations
+#### <a href="https://github.com/jakub-radzik/weatherApp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jakub-radzik&repo=weatherApp&theme=highcontrast" />
+</a> 
+  
+#### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+
+  
+  
 #### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/weatherApp/">Weather app</a>
 
 #### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white&logoColor=61DAFB&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/devfinder/">Devfinder</a>
