@@ -1,5 +1,5 @@
 <!-- ## Welcome to my github. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F76767&center=true&width=700&lines=Junior+Fullstack+Developer;Computer+Science+Student;Gym+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=F7F110&center=true&width=700&lines=Junior+Fullstack+Developer;Computer+Science+Student;Gym+Enthusiast)](https://git.io/typing-svg)
 <table>
   <tr>
     <td valign="top">
