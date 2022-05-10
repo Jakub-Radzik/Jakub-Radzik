@@ -4,8 +4,8 @@
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Radzik&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=highcontrast" height="200" /></td>
     <td valign="top">
-<!--       <img src="https://github-readme-stats.vercel.app/api?username=Jakub-Radzik&show_icons=true&theme=highcontrast" height="200" /> -->
-          <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=highcontrast">    <img  alt="jakub-radzik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jakub-radzik?cardType=level-alternate&theme=highcontrast" />  </a>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jakub-Radzik&show_icons=true&theme=highcontrast" height="200" />
+<!--           <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=highcontrast">    <img  alt="jakub-radzik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jakub-radzik?cardType=level-alternate&theme=highcontrast" />  </a> -->
     </td>
   </tr>
 <!--   <tr>
