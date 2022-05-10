@@ -3,16 +3,22 @@
   <tr>
     <td valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jakub-Radzik&langs_count=30&layout=compact&show_icons=true&icon_color=34abeb&theme=highcontrast" height="200" /></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=Jakub-Radzik&show_icons=true&theme=highcontrast" height="200" /></td>
+    <td valign="top">
+<!--       <img src="https://github-readme-stats.vercel.app/api?username=Jakub-Radzik&show_icons=true&theme=highcontrast" height="200" /> -->
+          <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=highcontrast">    <img  alt="jakub-radzik's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/jakub-radzik?cardType=level-alternate&theme=highcontrast" />  </a>
+    </td>
   </tr>
-  <tr>
+<!--   <tr>
   <td colspan="2" align="center">
     <a href="https://www.codewars.com/users/radzikoska123">
     <img align="center" src="https://www.codewars.com/users/radzikoska123/badges/large" alt="gif" width="550"/>
     </a>
     </td>
-  </tr>
+  </tr> -->
 </table>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jakub-radzik&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- https://www.codewars.com/users/radzikoska123/badges/large -->
 <a href="https://jakub-radzik.ovh"><h1>🌐Visit my personal website🌐</h1></a>
 <img align="right" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" alt="code" width="550"/>
