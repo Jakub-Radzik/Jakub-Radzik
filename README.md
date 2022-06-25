@@ -92,7 +92,16 @@ Position: <b>Junior Fullstack Developer</b>
   
   
 </div>
+  
  
+### Learning :
+  
+<div align="left">
+  
+[![SWIFT](	https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+[![SWIFT](	https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/)
+
+</div>
  
 ### I had contact with (I think it was beautiful) :
   
