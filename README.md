@@ -72,6 +72,7 @@ Position: <b>Junior Fullstack Developer</b>
 [![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) 
 [![FIREBASE](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) 
 
+[![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://github.com/Jakub-Radzik/Jakub-Radzik/) 
 <img src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/meteor.png" alt="meteor" width="30"/>
 </div>
 
