@@ -11,9 +11,9 @@
   </tr>
 
 </table>
-
+<!--
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jakub-radzik&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jakub-Radzik&theme=highcontrast" alt="radzik" />
 
 <!-- https://www.codewars.com/users/radzikoska123/badges/large
