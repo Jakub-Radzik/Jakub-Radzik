@@ -184,7 +184,7 @@ Position: <b>Junior Fullstack Developer</b>
   
 ###  5-th term:
 #### Oracle
-#### iOS
+#### [![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Mobile-Applications-iOS) <a href="https://github.com/Jakub-Radzik/Mobile-Applications-iOS">Mobile Applications iOS</a>
 #### Web Development
 #### Internet of Things
 #### Cybersecurity
