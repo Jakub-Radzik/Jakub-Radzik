@@ -187,7 +187,7 @@ Position: <b>Junior Fullstack Developer</b>
 #### [![SWIFT](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Mobile-Applications-iOS) <a href="https://github.com/Jakub-Radzik/Mobile-Applications-iOS">Mobile Applications iOS</a>
 #### Web Development
 #### Internet of Things
-#### [![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Mobile-Applications-iOS) <a href="https://github.com/Jakub-Radzik/Mobile-Applications-iOS">Internet of Things</a>
+#### [![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&link=https://github.com/Jakub-Radzik)](https://github.com/Jakub-Radzik/Internet-of-Things) <a href="https://github.com/Jakub-Radzik/Internet-of-Things">Internet of Things</a>
 #### Cybersecurity
 #### Software Design
 
