@@ -29,7 +29,7 @@
 <div>
   
 Company: <b>Vazco</b></br>
-Position: <b>Junior Fullstack Developer</b>
+Position: <b>Fullstack Developer</b>
 
 ### Find me on:
 <div>
