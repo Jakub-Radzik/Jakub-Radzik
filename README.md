@@ -193,7 +193,8 @@ Position: <b>Fullstack Developer</b>
 #### Internet of Things
 #### [![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&link=https://github.com/Jakub-Radzik)](https://github.com/Jakub-Radzik/Internet-of-Things) <a href="https://github.com/Jakub-Radzik/Internet-of-Things">Internet of Things</a>
 #### Cybersecurity
-#### Software Design
+#### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) (https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&link=https://github.com/PiJaKa-Coding-Club/Monitorek-Pogody)] (https://github.com/PiJaKa-Coding-Club/Monitorek-Pogody) <a href="https://github.com/PiJaKa-Coding-Club/Monitorek-Pogody">Software Design</a>
+ 
   
 #### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/software-design-test/">Software design - test answers
 
