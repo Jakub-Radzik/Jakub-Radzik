@@ -198,6 +198,10 @@ Position: <b>Fullstack Developer</b>
 
 ###  6-th term:
 #### [![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/Jakub-Radzik/Advanced_Web_Dev">Advanced Web Development</a>
+#### [![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/Jakub-Radzik/Artificial_Intelligence_Lab">Artificial Intelligence</a>
+
+
+
   
 
 ## Others
