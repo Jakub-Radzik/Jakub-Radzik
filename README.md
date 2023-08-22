@@ -194,9 +194,11 @@ Position: <b>Fullstack Developer</b>
 #### [![ARDUINO](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white&link=https://github.com/Jakub-Radzik)](https://github.com/Jakub-Radzik/Internet-of-Things) <a href="https://github.com/Jakub-Radzik/Internet-of-Things">Internet of Things</a>
 #### Cybersecurity
 #### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/PiJaKa-Coding-Club/Monitorek-Pogody) <a href="https://github.com/PiJaKa-Coding-Club/Monitorek-Pogody">Software Design</a>
- 
-  
 #### [![REACTJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://jakub-radzik.github.io/software-design-test/">Software design - test answers
+
+###  6-th term:
+#### [![GRAPHQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/Jakub-Radzik/Advanced_Web_Dev">Advanced Web Development</a>
+  
 
 ## Others
 #### [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&link=https://github.com/Jakub-Radzik/Jakub-Radzik/)](https://github.com/Jakub-Radzik/Jakub-Radzik/) <a href="https://github.com/radzikoska123/Challenges">Blogr landing page</a>
