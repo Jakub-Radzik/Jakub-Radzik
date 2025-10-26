@@ -29,7 +29,7 @@
 <div>
   
 Company: <b>Sportradar</b></br>
-Position: <b>Junior Software Developer</b>
+Position: <b>Software Developer</b>
 
 ### Find me on:
 <div>
