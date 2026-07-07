@@ -28,8 +28,8 @@
 <!-- <img align="right" src="https://github.com/radzikoska123/radzikoska123/blob/main/icons/programming.gif" alt="gif" width="550"/> -->
 <div>
   
-Company: <b>Sportradar</b></br>
-Position: <b>Software Developer</b>
+Company: <b>Appliscale</b></br>
+Position: <b>Software Engineer</b>
 
 ### Find me on:
 <div>
